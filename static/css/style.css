@@ -45,8 +45,10 @@ ul.title {
   white-space: nowrap;
 }
 p.poem {
+  font-family: 'Fjalla One', sans-serif;
+  font-weight: lighter;
   font-size: 18px;
-  margin-left: 300px;
+  margin-left: 35%;
   white-space: pre-line;
 }
 pre.blogcontent {
