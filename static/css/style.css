@@ -15,7 +15,7 @@ body {
 }
 
 h1.blogdate {
-  font-size: 25px;
+  font-size: 150%;
   text-align: center;
   font-weight: lighter;
 }
@@ -25,20 +25,20 @@ ul.hnavbar {
   margin-top: 0px;
   width: 5%;
   float: left;
-  font-size: 12px;
+  font-size: 46.5%;
   list-style: none;
 }
 
 ul.hnavbar li {
-  font-size: 15px;
-  padding-right: 20px;
+  font-size: 110%;
+  padding-right: 30%;
   display: inline;
   position: relative;
 }
 
 ul.title {
   font-family: 'Russo One', sans-serif;
-  font-size: 45px;
+  font-size: 140%;
   float: left;
   margin-top: 0;
   list-style: none;
@@ -47,13 +47,13 @@ ul.title {
 p.poem {
   margin-left: 15%;
   font-weight: lighter;
-  font-size: 18px;
+  font-size: 110%;
   white-space: pre-line;
 }
 pre.blogcontent {
   font-family: 'Fjalla One', sans-serif;
   font-weight: lighter;
-  font-size: 18px;
+  font-size: 110%;
   margin-left: 30%;
 }
 
@@ -78,13 +78,11 @@ br.division {
 hr.hnavbar {
   border-style: groove;
   border-color: rgb(171,178,191);
-  padding-left: 110px;
 }
 
 hr.divider {
   border-style: groove;
   border-color: rgb(171,178,191);
-  padding-left: 110px;
   width: 30%;
 }
 
