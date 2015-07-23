@@ -45,6 +45,7 @@ ul.title {
   white-space: nowrap;
 }
 p.poem {
+  font-size: 18px;
   margin-left: 300px;
   white-space: pre-line;
 }
