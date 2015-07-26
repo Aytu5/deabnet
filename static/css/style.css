@@ -93,10 +93,17 @@ p.poem {
   white-space: pre-line;
 }
 pre.blogcontent {
+  /* This is the old formatting
   font-family: 'Fjalla One', sans-serif;
   font-weight: lighter;
   text-align: left;
   font-size: 110%;
+  */
+  font-family: "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue"
+  ,Helvetica,Arial,"Lucida Grande",sans-serif;
+  font-weight: lighter;
+  font-size: 110%;
+  white-space: pre-line;
 }
 
 a {
