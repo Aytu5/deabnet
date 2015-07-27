@@ -15,17 +15,16 @@ body {
 }
 
 div.centertitle {
-  width: 30%;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+  width: 70%;
+  padding-left: 30%
+  display: inline-block;
   margin: 0 auto;
+  text-align: center;
 }
 div.centertext {
-  width: 30%;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+  width: 70%;
+  padding-left: 35%;
+  display: inline-block;
   margin: 0 auto;
 }
 div.people {
@@ -103,6 +102,8 @@ pre.blogcontent {
   ,Helvetica,Arial,"Lucida Grande",sans-serif;
   font-weight: lighter;
   font-size: 110%;
+  margin: 0 auto;
+  word-wrap: break-word;
 }
 
 a {
@@ -138,6 +139,7 @@ img.gif {
 }
 
 img.person {
+  display: inline;
   -webkit-filter: grayscale(100%);
   filter: grayscale(100%);
   border-radius: 50%;
