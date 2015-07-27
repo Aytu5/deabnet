@@ -89,6 +89,9 @@ p.poem {
   white-space: pre-line;
 }
 p.blogcontent {
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
   font-size: 110%;
 }
 pre.blogcontent {
