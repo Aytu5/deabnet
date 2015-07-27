@@ -23,7 +23,6 @@ div.centertitle {
 }
 div.centertext {
   width: 30%;
-  display: block;
   margin: 0 auto;
 }
 div.people {
@@ -85,16 +84,12 @@ ul.people h5 {
 p.poem {
   margin-left: 15%;
   font-weight: lighter;
-  font-size: 110%;
+  font-size: 100%;
   white-space: pre-line;
 }
 p.blogcontent {
-  font-family: "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue"
-  ,Helvetica,Arial,"Lucida Grande",sans-serif;
-  font-weight: lighter;
-  font-size: 100%;
-  margin: 0 auto;
-  word-wrap: break-word;
+  margin-left: 15%;
+  font-size: 110%;
 }
 pre.blogcontent {
   /* This is the old formatting
