@@ -22,10 +22,8 @@ div.centertitle {
   text-align: center;
 }
 div.centertext {
-  width: 60%;
-  padding-left: 35%;
-  float: auto;
-  display: inline-block;
+  width: 30%;
+  display: block;
   margin: 0 auto;
 }
 div.people {
@@ -89,6 +87,14 @@ p.poem {
   font-weight: lighter;
   font-size: 110%;
   white-space: pre-line;
+}
+p.blogcontent {
+  font-family: "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue"
+  ,Helvetica,Arial,"Lucida Grande",sans-serif;
+  font-weight: lighter;
+  font-size: 100%;
+  margin: 0 auto;
+  word-wrap: break-word;
 }
 pre.blogcontent {
   /* This is the old formatting
