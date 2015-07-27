@@ -22,16 +22,15 @@ div.centertitle {
   text-align: center;
 }
 div.centertext {
-  width: 70%;
+  width: 60%;
   padding-left: 35%;
+  float: auto;
   display: inline-block;
   margin: 0 auto;
 }
 div.people {
   width: 50%;
   display: block;
-  margin-left: auto;
-  margin-right: auto;
   margin: 0 auto;
 }
 h1.blogdate {
