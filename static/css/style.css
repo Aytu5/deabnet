@@ -1,0 +1,150 @@
+/*
+Current GoogleFonts list includes;
+font-family: 'Dosis', sans-serif;
+font-family: 'Russo One', sans-serif;
+font-family: 'Fjalla One', sans-serif;
+font-family: 'Changa One', cursive;
+font-family: 'Squada One', cursive;
+*/
+
+body {
+  background-color: rgb(40,44,52);
+  color: rgb(171,178,191);
+  font-family: "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue"
+  ,Helvetica,Arial,"Lucida Grande",sans-serif;
+}
+
+div.centertitle {
+  width: 70%;
+  padding-left: 30%
+  display: inline-block;
+  margin: 0 auto;
+  text-align: center;
+}
+div.centertext {
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+}
+div.people {
+  width: 50%;
+  display: block;
+  margin: 0 auto;
+}
+h1.blogdate {
+  text-align: center;
+  white-space: nowrap;
+  font-size: 150%;
+  font-weight: lighter;
+}
+
+ul.hnavbar {
+  white-space: nowrap;
+  margin-top: 0px;
+  width: 5%;
+  float: left;
+  font-size: 46.5%;
+  list-style: none;
+}
+
+ul.hnavbar li {
+  font-size: 110%;
+  padding-right: 30%;
+  display: inline;
+  position: relative;
+}
+
+ul.title {
+  font-family: 'Russo One', sans-serif;
+  font-size: 140%;
+  float: left;
+  margin-top: 0;
+  list-style: none;
+  white-space: nowrap;
+}
+ul.people {
+  white-space: nowrap;
+  float: left;
+  list-style: none;
+}
+ul.people li {
+  white-space: nowrap;
+  padding-right: 30%;
+  display: inline-block;
+  position: relative;
+}
+ul.people h3 {
+  text-align: center;
+}
+ul.people h4 {
+  text-align: center;
+}
+ul.people h5 {
+  text-align: center;
+}
+p.poem {
+  margin-left: 15%;
+  font-weight: lighter;
+  font-size: 100%;
+  white-space: pre-line;
+}
+p.blogcontent {
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 110%;
+}
+pre.blogcontent {
+  /* This is the old formatting
+  font-family: 'Fjalla One', sans-serif;
+  font-weight: lighter;
+  text-align: left;
+  font-size: 110%;
+  */
+  font-family: "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue"
+  ,Helvetica,Arial,"Lucida Grande",sans-serif;
+  font-weight: lighter;
+  font-size: 110%;
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+  background-color: inherit;
+  color: inherit;
+}
+
+a:hover {
+  color: rgb(62, 68, 81);
+}
+
+br.division {
+  line-height: 300%;
+}
+
+hr.hnavbar {
+  border-style: groove;
+  border-color: rgb(171,178,191);
+}
+
+hr.divider {
+  border-style: groove;
+  border-color: rgb(171,178,191);
+  width: 30%;
+}
+
+img.gif {
+  display: block;
+  border-radius: 10%;
+  width:500px;
+  height:500px;
+}
+
+img.person {
+  display: inline;
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+  border-radius: 50%;
+  width: 170px;
+  height: 170px;
+}
